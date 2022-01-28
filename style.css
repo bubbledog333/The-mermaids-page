@@ -17,6 +17,7 @@ body{
 }img{
     margin: 0 auto;
     display:block;
+    border-radius: 5px;
 }
 a{
     color: steelblue;
